@@ -19,9 +19,6 @@ while True:
         print("주문을 마치겠습니다.")
         print(" 안녕! ".center(20, "="))
         break
-    else:
-        print("입력한 내용을 확인해주시고 다시 실행해주세요.")
-        continue
 
     combo_num = int(combo_num)
     combo_count = int(combo_count)
